@@ -1,1 +1,1 @@
-# Calendar-app-Nuxt-NestJS-MongoDB-
+# Calendar-app Nuxt-NestJS-MongoDB
